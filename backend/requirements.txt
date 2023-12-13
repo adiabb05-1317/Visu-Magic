@@ -1,0 +1,8 @@
+transformers==4.11.2
+datasets==1.11.0
+torch==1.9.1
+numpy==1.19.5
+faiss-cpu==1.7.0
+pillow==8.2.0
+flask==2.1.0
+tqdm==4.62.2
