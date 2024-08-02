@@ -5,7 +5,13 @@
 
 ## Overview
 
+
 **Visu-Magic** is a comprehensive application designed to facilitate text-to-image search and grouping using advanced machine learning models. The project integrates state-of-the-art technologies like Contrastive Language-Image Pretraining (CLIP) and Vector Index FAISS for efficient and accurate image retrieval. The application comes with a user-friendly interface built with React.js, and its backend is powered by Flask.
+
+![Screenshot 2024-08-02 at 7 19 36 PM](https://github.com/user-attachments/assets/8372e6a9-441a-49d4-8f26-a165c89406bb)
+
+![Screenshot 2024-08-02 at 7 20 37 PM](https://github.com/user-attachments/assets/5661aa5f-14ab-41c3-b9d5-db7142b0a749)
+
 
 ## Features
 
